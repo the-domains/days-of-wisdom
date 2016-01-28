@@ -1,0 +1,28 @@
+name: Days Of Wisdom
+favicon: null
+layout_spectrum: 0.09825064381584525
+typography_spectrum: 0.27112950198352337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.16960232029668987
+  lightness: 0.20271547348238528
+  saturation: 0.22216840204782784
+  rhythmicContrast: 0.7318250292446464
+purpose: []
